@@ -1,0 +1,12 @@
+{
+  "id": "SharedHandPrototype",
+  "name": "共享牌组（SharedHandPrototype）",
+  "author": "Local prototype",
+  "description": "支持 2～4 人共享手牌；可选手牌不共享（仅抽、弃、消耗堆共享）、同步卡组、共享战斗牌组、每回合队友牌出牌限额与和谐友爱，提供打防／同名堆叠、选牌锁链、角色配色和自定义布局。无需前置，自带中文设置页；可选通过 BaseLib／RitsuLib 配置，兼容《友尽尖塔》共享／贪婪模式；任务模式不可用。",
+  "version": "0.9.23",
+  "min_game_version": "0.111.0",
+  "has_dll": true,
+  "has_pck": false,
+  "affects_gameplay": true,
+  "dependencies": []
+}

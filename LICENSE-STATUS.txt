@@ -1,0 +1,7 @@
+No open-source license is included in this source package.
+
+The author has not selected license terms for modification, redistribution, or commercial use. Sharing this copy with a recipient does not by itself grant those rights. Ask the author before publishing a fork, redistributing modified code, or using it commercially.
+
+This notice applies only to this mod's original source. It does not grant rights to Slay the Spire 2, BaseLib, RitsuLib, or any other third-party code or artwork. Their respective owners' terms continue to apply.
+
+Before describing this project as open source, the author should select and add a license (for example, MIT for a permissive license, or GPL-3.0 for a copyleft license) and confirm that all included code and assets may be licensed that way. The included layout preview PNGs contain game artwork; this notice does not grant rights to that artwork.

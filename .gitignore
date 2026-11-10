@@ -1,0 +1,6 @@
+# Godot / C#
+.godot/
+bin/
+obj/
+*.user
+mono_crash.*.json
